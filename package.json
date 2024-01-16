@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index --ignore '*.json'"
+    "dev": "nodemon index --ignore '*.json'",
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
